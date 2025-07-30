@@ -5,10 +5,10 @@ Integrantes
 ## 👥 Perfiles del equipo
 
 - [Perfil de Yamir](./perfil-yamir.md)
-- [Perfil de Matias](./perfil-matiasmd)
+- [Perfil de Matias](./perfil-matias.md)
 - [Perfil de Victor](./perfil-victor.md)
 - [Perfil de 00000](./perfil-00000.md)
-- [Perfil de Roxana](./perfil-roxana.md)
+- [Perfil de Roxana](./perfil-roxana.md) Corregir
 
 
 ## Descripción del proyecto
