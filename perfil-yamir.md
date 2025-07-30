@@ -1,19 +1,21 @@
 # Perfil de Yamir
+# 🧑‍💻 ¿Quién eres?
+Hola, soy **Yamir o Kitikazis**, una mezcla entre hacker romántico y dev sistemático. Soy curioso, autodidacta y le meto pasión a cada línea de código.
 
-Hola, soy Roxana Matamoros.
+---
 
-Estudio Ingeniería de Software con Inteligencia Artificial en SENATI.
+## 📚 ¿Qué estudias?
+**Desarrollo de Software en SENATI**. Le meto cabeza a la lógica, al diseño y a los sistemas como piezas de ajedrez.
 
-Mis habilidades actuales en programación:
-- HTML, CSS, JavaScript (nivel básico)
-- PHP y MySQL (nivel básico)
-- Uso básico de Git y GitHub
 
-Experiencias pasadas:
-- He desarrollado pequeños proyectos web en el instituto.
-- He trabajado con CRUD y bases de datos relacionales.
 
-Qué espero aprender usando GitHub:
-- Trabajar de forma colaborativa en proyectos reales.
-- Manejar ramas, pull requests y resolver conflictos.
-- Mejorar mi organización como desarrolladora.
+## 💻 Habilidades actuales en programación
+- HTML, CSS, JavaScript (Frontend vibes)
+
+## 📜 Experiencias pasadas
+- He desarrollado pequeños sistemas en equipos de clase.
+
+
+## 🚀 ¿Qué espero aprender usando GitHub?
+Quiero dominar GitHub como herramienta profesional:  
+- Resolver conflictos sin miedo
