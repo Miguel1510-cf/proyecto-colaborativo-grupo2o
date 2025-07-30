@@ -12,7 +12,7 @@ Este repositorio es un trabajo colaborativo para aprender Git, GitHub y GitHub P
 
 ## Qué hizo cada uno
 - Victor: Rama `feature/victor`, archivo de perfil y realizo el HTML y CSS.
-- 
+- Roxana: Rama feature/Roxana, perfil, commit y full request.
 - 
 
 ## Conflictos y cómo los resolvimos
