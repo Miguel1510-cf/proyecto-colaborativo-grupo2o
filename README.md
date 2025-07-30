@@ -1,11 +1,15 @@
 # Proyecto Colaborativo Grupo2
 
-## Integrantes
-- Victor Quispe Curo
-- Roxana Matamoros
-- Luis Huallcca
-- Miguel Cervantes
-- Matias Sicha
+# proyecto-colaborativo-grupo2
+Integrantes
+## 👥 Perfiles del equipo
+
+- [Perfil de Yamir](./perfil-yamir.md)
+- [Perfil de Matias](./perfil-matiasmd)
+- [Perfil de Victor](./perfil-victor.md)
+- [Perfil de 00000](./perfil-00000.md)
+- [Perfil de Roxana](./perfil-roxana.md)
+
 
 ## Descripción del proyecto
 Este repositorio es un trabajo colaborativo para aprender Git, GitHub y GitHub Pages.
