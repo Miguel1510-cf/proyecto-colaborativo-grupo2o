@@ -36,3 +36,5 @@ Tuvimos conflictos en el archivo README.md porque dos integrantes lo editaron al
 
 ## Enlace a GitHub Pages
 
+https://kitikazis.github.io/proyecto-colaborativo-grupo2o/
+
