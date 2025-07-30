@@ -15,7 +15,7 @@ Integrantes
 - [Perfil de Matias](./perfil-matias.md)
 - [Perfil de Victor](./perfil-victor.md)
 - [Perfil de 00000](./perfil-00000.md)
-- [Perfil de Roxana](./perfil-roxana.md) Corregir
+- [Perfil de Roxana](./perfil_roxana.md)
 
 
 ## Descripción del proyecto
