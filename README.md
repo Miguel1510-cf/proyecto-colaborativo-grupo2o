@@ -1,5 +1,12 @@
 # Proyecto Colaborativo Grupo2
 
+## Integrantes
+- Victor Quispe Curo
+- Roxana Matamoros
+- Luis Huallcca
+- Miguel Cervantes
+- Matias Sicha
+
 # proyecto-colaborativo-grupo2
 Integrantes
 ## 👥 Perfiles del equipo
