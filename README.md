@@ -3,7 +3,7 @@
 ## 👥 Integrantes y Perfiles
 
 - [🧠 Yamir Huallcca](./perfil-yamir.md)
-- [⚙️ Miguel Cervantes (Matías)](./perfil-matias.md)
+- [⚙️ Miguel Cervantes](./perfil-matias.md)
 - [🛠️ Víctor Quispe Curo](./perfil-victor.md)
 - [🎨 Roxana Matamoros](./perfil-roxana.md)
 
