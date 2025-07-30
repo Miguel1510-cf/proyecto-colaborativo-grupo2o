@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   background-color: #f3f3f3;
   padding-top: 40px;
@@ -31,3 +32,36 @@ body {
   color: #888;
   text-align: center;
 }
+=======
+
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f3f3f3;
+    color: #333;
+    padding: 50px;
+    text-align: center;
+}
+
+h1 {
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 15px;
+}
+
+.footer {
+    margin-top: 60px;
+    font-size: 14px;
+    color: #888;
+}
+>>>>>>> 55bdefcc9b35a48b5067a7497cf7f302cacdb559
