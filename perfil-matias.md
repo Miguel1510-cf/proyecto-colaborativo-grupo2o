@@ -1,6 +1,6 @@
-# Perfil de MATIAS
-MATIAS
-Hola, soy MATIAS Matamoros.
+# Perfil de Miguel
+Miguel
+Hola, soy Miguel Matamoros.
 MATIAS
 Estudio Ingeniería de Software con Inteligencia Artificial en SENATI.
 
