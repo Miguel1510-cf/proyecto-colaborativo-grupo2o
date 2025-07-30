@@ -1,21 +1,12 @@
-# Proyecto Colaborativo Grupo2
-
-## Integrantes
-- Victor Quispe Curo
-- Roxana Matamoros
-- Luis Huallcca
-- Miguel Cervantes
-- Matias Sicha
-
-# proyecto-colaborativo-grupo2
+# Proyecto Colaborativo Grupo 2
 Integrantes
 ## 👥 Perfiles del equipo
 
-- [Perfil de Yamir](./perfil-yamir.md)
-- [Perfil de Matias](./perfil-matias.md)
-- [Perfil de Victor](./perfil-victor.md)
-- [Perfil de 00000](./perfil-00000.md)
-- [Perfil de Roxana](./perfil-roxana.md)
+- [Perfil de Yamir](./perfil-yamir.md) Luis Huallcca
+- [Perfil de Matias](./perfil-matias.md) Matias Sicha
+- [Perfil de Victor](./perfil-victor.md) Victor Quispe Curo
+- [Perfil de 00000](./perfil-00000.md) Miguel Cervantes
+- [Perfil de Roxana](./perfil-roxana.md)  Roxana Matamoros
 
 
 ## Descripción del proyecto
@@ -36,5 +27,7 @@ Tuvimos conflictos en el archivo README.md porque dos integrantes lo editaron al
 
 ## Enlace a GitHub Pages
 
-https://kitikazis.github.io/proyecto-colaborativo-grupo2o/
+
+Enlance de la Page 
+https://kitikazis.github.io/proyecto-colaborativo-grupo2/
 
