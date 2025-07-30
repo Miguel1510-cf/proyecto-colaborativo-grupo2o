@@ -17,3 +17,4 @@ Qué espero aprender usando GitHub:
 - Trabajar de forma colaborativa en proyectos reales.
 - Manejar ramas, pull requests y resolver conflictos.
 - Mejorar mi organización como desarrolladora.
+Me interesa aprender más sobre trabajo en equipo con GitHub.
