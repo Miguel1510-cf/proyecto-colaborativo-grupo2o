@@ -4,9 +4,9 @@
 
 - [🧠 Yamir Huallcca](./perfil-yamir.md)
 - [⚙️ Miguel Cervantes](./perfil-miguel.md)
-- - [🎨 Sebastian Rios ](./perfil-sebastian.md)
+- [🎨 Sebastian Rios ](./perfil-sebastian.md)
 - [🛠️ Víctor Quispe Curo](./perfil-victor.md)
-- - [🎨 Roxana Matamoros](./perfil-roxana.md)
+- [🎨 Roxana Matamoros](./perfil-roxana.md)
 - [🎨 Elias Amaya](./perfil-elias.md)
 
 ---
