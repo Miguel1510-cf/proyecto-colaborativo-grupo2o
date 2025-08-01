@@ -19,10 +19,35 @@ Este repositorio es un trabajo colaborativo donde aprendimos a usar **Git**, **G
 
 ## ✅ Aportes de cada integrante
 
-- **Víctor**: Creó la rama `feature/victor`, su archivo de perfil, realizo la mayor parte del README.md y colaboró en el diseño del HTML y CSS de la página.
-- **Roxana**: Rama `feature/roxana`, perfil, commits y mejoras visuales al GitHub Page y colaboró con el diseño de css de la página.
-- **Miguel**: Rama `feature/matias`, hizo la transferencia del repositorio y participó en la estructura general.
-- **Yamir**: Rama `feature/yamir`, realizó el merge, unificó las ramas y publicó la página con GitHub Pages.
+### 🧠 Yamir Huallcca (Scrum Master)
+- Coordinación general del equipo y manejo de tiempos.
+- Supervisión del flujo de trabajo en GitHub (issues, ramas, merges).
+- Revisión final del `README.md` y despliegue en GitHub Pages.
+
+### ⚙️ Miguel Cervantes (Dev Team)
+- Implementación de la funcionalidad principal del sistema.
+- Configuración del entorno de desarrollo y soporte técnico.
+- Gestión de conflictos de merge y revisión de código colaborativo.
+
+### 🎨 Sebastian Rios (Dev Team)
+- Maquetación del diseño visual (HTML/CSS).
+- Edición de perfiles individuales y estructura del sitio.
+- Apoyo en resolución de errores de visualización.
+
+### 🛠️ Víctor Quispe Curo (Dev Team)
+- Desarrollo de componentes lógicos en JavaScript.
+- Testing y validación de funcionalidades.
+- Documentación técnica del código.
+
+### 🎨 Roxana Matamoros (Dev Team)
+- Redacción y estilización de su perfil personal.
+- Apoyo en el uso de ramas y commits organizados.
+- Participación activa en reuniones de planificación.
+
+### 🎨 Elias Amaya (Dev Team)
+- Creación y subida de su perfil personal (`perfil-elias.md`).
+- Aporte en diseño responsive y pruebas visuales.
+- Coordinación en la integración del contenido de su sección.
 
 ---
 
